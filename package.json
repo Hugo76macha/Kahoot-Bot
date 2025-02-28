@@ -1,0 +1,19 @@
+{
+  "name": "Kahoot.Bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0",
+    "kahoot.js-updated": "^2.2.6",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
