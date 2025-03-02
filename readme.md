@@ -2,7 +2,7 @@
 
 # 📜 Description  
 
-## Ce projet est un **bot automatique pour Kahoot**. Il permet de rejoindre une partie en utilisant un **PIN de jeu** et de répondre automatiquement aux questions.  
+### Ce projet est un **bot automatique pour Kahoot**. Il permet de rejoindre une partie en utilisant un **PIN de jeu** et de répondre automatiquement aux questions.  
 
 # ✨ Fonctionnalités  
 
