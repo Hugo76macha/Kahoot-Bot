@@ -23,14 +23,14 @@ git clone https://github.com/Hugo76macha/kahoot-bot.git
 ```
 
 ## 2. **Accédez au Répertoire du Projet :**  
-### ```bash
-### cd kahoot-bot
-### ```
+```bash
+cd kahoot-bot
+```
 
 ## 3. **Installez les Dépendances :**  
-### ```bash
-### npm install
-### ```
+```bash
+npm install
+```
 
 ## 4. **Configurez le Bot :**  
 ### - Ouvrez le fichier `index.js`  
@@ -39,9 +39,9 @@ git clone https://github.com/Hugo76macha/kahoot-bot.git
 ## 🚀 Utilisation  
 
 ### 1. **Démarrez le Bot :**  
-### ```bash
-### node .
-## ```
+```bash
+node .
+```
 
 ## 2. **Attendez la connexion au jeu** ⏳  
 ### - Le bot rejoindra automatiquement la partie avec le nom défini dans le script. 
