@@ -18,9 +18,9 @@
 ## ⚙️ Installation  
 
 ### 1. **Téléchargez le Dépôt :**  
-### ```bash
-### git clone https://github.com/Hugo76macha/kahoot-bot.git
-### ```
+```bash
+git clone https://github.com/Hugo76macha/kahoot-bot.git
+```
 
 ## 2. **Accédez au Répertoire du Projet :**  
 ### ```bash
