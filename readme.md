@@ -6,7 +6,7 @@
 
 # ✨ Fonctionnalités  
 
-# - **Connexion automatique** 🔄 : Rejoint une partie Kahoot en entrant le PIN du jeu.  
+# -**Connexion automatique** 🔄 : Rejoint une partie Kahoot en entrant le PIN du jeu.  
 # - **Multiples bots** 🤖🤖 : Possibilité de générer plusieurs bots pour rejoindre une partie.  
 # - **Rapide et efficace** ⚡ : spam de bot en un temps optimisé.  
 
